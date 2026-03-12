@@ -11,6 +11,22 @@ This repository documents the research from User Needs Assessment stage, evaluat
 ## Problem
 TBIs can create major communication barriers and increase emotional/behavioural dysregulation. NeuroLink focuses on fatigue-friendly interactions and predictable navigation to reduce cognitive load.
 
+## User Needs Assessment (UNA) and stakeholders
+NeuroLink was designed using a user-centred approach grounded in a User Needs Assessment. We gathered input through stakeholder engagement to understand real communication barriers experienced during fatigue and cognitive overload, and to translate these needs into clear design requirements.
+
+### Stakeholders engaged (80)
+- Individuals with moderate TBI
+- Informal caregivers
+- Clinicians and health professionals (e.g., physiotherapy, occupational therapy, nursing, surgery)
+- Researchers / informatics stakeholders
+
+Key needs translated into design requirements
+- Low-effort communication (taps/sliders; minimal typing)
+- Predictable navigation and reduced cognitive load
+- Fatigue-friendly, low-energy interaction flow
+- Real-time caregiver updates and secure sharing
+- Personalization (what to report + who receives it)
+
 ## Solution overview
 Key features:
 - real-time mood/fatigue logging
