@@ -70,10 +70,10 @@ Participants rated the app as useful and supportive of autonomy (means roughly 5
 
 ## Notes and limitations
 - small sample size
-- no real TBI participants in this round
 - controlled task setting and incomplete prototype functionality
 
-## What I would do next
+## What we would do next
 - Expanding testing with more users (target of 500)
 - expanded symptom tracking beyond fatigue
 - objective usage analytics + performance-based metrics
+- securing funding for the project
